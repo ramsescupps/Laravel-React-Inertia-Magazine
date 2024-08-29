@@ -1,0 +1,79 @@
+{
+    "categories": [
+        {
+            "id": 1,
+            "name": "Laravel",
+            "description": "Laravel is a web application framework with expressive, elegant syntax. We’ve already laid the foundation — freeing you to create without sweating the small things.",
+            "sortOrder": 1,
+            "isActive": true
+        },
+        {
+            "id": 2,
+            "name": "React",
+            "description": "Laravel is a web application framework with expressive, elegant syntax. We’ve already laid the foundation — freeing you to create without sweating the small things.",
+            "sortOrder": 2,
+            "isActive": true
+        },
+        {
+            "id": 3,
+            "name": "Vue",
+            "description": "Laravel is a web application framework with expressive, elegant syntax. We’ve already laid the foundation — freeing you to create without sweating the small things.",
+            "sortOrder": 3,
+            "isActive": true
+        },
+        {
+            "id": 4,
+            "name": "Node.js",
+            "description": "Laravel is a web application framework with expressive, elegant syntax. We’ve already laid the foundation — freeing you to create without sweating the small things.",
+            "sortOrder": 3,
+            "isActive": true
+        },
+        {
+            "id": 5,
+            "name": "Express.js",
+            "description": "Laravel is a web application framework with expressive, elegant syntax. We’ve already laid the foundation — freeing you to create without sweating the small things.",
+            "sortOrder": 3,
+            "isActive": true
+        }
+    ],
+    "posts": [
+        {
+            "id": 1,
+            "category_id": 1,
+            "title": "Don\u2019t assume your user data in the cloud is safe",
+            "DateTime": "2024-06-10T10:00:00Z",
+            "By": "Author1",
+            "isActive": true,
+            "isFeatured": true,
+            "SEOSlug": [
+                "new-ai-breakthrough",
+                "new-ai-breakthrough"
+            ],
+            "metatitle": "AI Breakthrough",
+            "keyword": [
+                "AI",
+                "technology"
+            ],
+            "description": "This is the post1"
+        },
+        {
+            "id": 2,
+            "category_id": 2,
+            "title": "Al can now kill those annoying cookie pop-ups",
+            "DateTime": "2021-06-10T10:00:00Z",
+            "By": "Author1",
+            "isActive": true,
+            "isFeatured": true,
+            "SEOSlug": [
+                "new-ai-breakthrough",
+                "new-ai-breakthrough"
+            ],
+            "metatitle": "AI Breakthrough",
+            "keyword": [
+                "AI",
+                "technology"
+            ],
+            "description": "This is the post2"
+        }
+    ]
+}
